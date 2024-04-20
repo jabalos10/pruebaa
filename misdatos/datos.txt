@@ -1,0 +1,7 @@
+nombre: julian
+apellido: abalos
+edad:23
+altura:1,85
+peso: 77
+colorperferido: azul y amarillo
+d.n.i: 42834911
